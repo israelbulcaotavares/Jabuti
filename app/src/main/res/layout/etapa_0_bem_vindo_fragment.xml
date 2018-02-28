@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/activity_bem_vindo"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".fragments.BemVindoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="\t\t\tBEM VINDO AO JABUTI"
+        android:textColor="#000"
+        android:textSize="30dp" />
+
+    <TextView
+        android:textColor="#000"
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView6"
+        android:textSize="20sp"
+        android:layout_margin="9dp"
+        android:text="@string/bem_vindo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+
+            android:id="@+id/botao_voltar"
+            style="@android:style/Widget.Holo.Button.Inset"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+
+
+            android:text="Voltar"
+            android:textColor="@color/colorPrimaryDark" />
+    </LinearLayout>
+
+
+</LinearLayout>

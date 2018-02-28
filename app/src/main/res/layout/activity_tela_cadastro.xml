@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.TelaCadastroActivity">
+
+    <Button
+        android:backgroundTint="@color/colorPrimary"
+        android:id="@+id/button4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+
+
+        android:background="@mipmap/back" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button4"
+        android:layout_centerHorizontal="true"
+        android:text="Cadastro"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="34sp"  />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="366dp"
+        android:layout_height="wrap_content"
+
+
+
+        android:ems="10"
+        android:hint="Nome completo"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/editText"
+        android:ems="10"
+        android:hint="CPF"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editText19"
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+
+        android:ems="10"
+        android:hint="Data de Nascimento"
+        android:inputType="number" />
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginEnd="-169dp"
+        android:layout_marginRight="-169dp"
+        android:ems="10"
+        android:hint="E-mail"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="374dp"
+        android:layout_height="wrap_content"
+
+        android:ems="10"
+        android:hint="Nome completo da mãe"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:ems="10"
+        android:hint="Senha"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:ems="10"
+        android:hint="Confimar senha"
+        android:inputType="textPassword" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+
+        app:srcCompat="@android:color/holo_green_light" />
+    <Button
+        android:id="@+id/button3"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        android:background="@android:color/transparent"
+        android:onClick="cadastro"
+        android:text="Cadastrar"
+        android:textColor="#33691e"
+        android:textSize="18sp" />
+
+
+
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+       android:layout_marginBottom="60dp"
+        app:srcCompat="@android:color/holo_green_light" />
+
+
+</LinearLayout>

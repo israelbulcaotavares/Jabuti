@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">aJabutiTelaDeBloqueio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="enviar">Enviar Alerta</string>
+
+    <string name="opcional">opcional</string>
+
+    <string name="deslogar">Deslogar</string>
+
+    <string name="sim">sim</string>
+    <string name="tem_certeza">Tem certeza?</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="bem_vindo">
+\t\tOlá, esse é o Jabuti, seu mais novo e eficiente aplicativo de notificações de assaltos a ônibus coletivos e rodoviários.
+Diferente de qualquer outro aplicativo relacionado ao assunto, nós podemos melhorar a efetividade da ação policial
+perante um assalto à ônibus coletivo e rodoviário devido à nossa integração de tecnologias e à você, uma peça chave para a
+redução da criminalidade nesses transportes. E fique tranquilo(a), a ativação fica a sua escolha e é totalmente discreta.
+
+       </string>
+
+    <string name="etapa_1">
+\n\t\tComo garantimos a discrição? Quando for ativado, nem o próprio usuário saberá, evitando assim qualquer chance do meliante saber da ativação.
+
+Mas vamos lá, como funciona o dispositivo?
+
+\n\n\t1. Você faz seu cadastro.
+
+\n\n\t2. Você escolhe os tipos de ativação disponíveis nessa primeira versão: Tela de bloqueio ou Botões de volume.
+
+\n\n\t3. Durante a ocorrência do assalto você ativa da forma que você escolheu.
+
+\n\n\t4. Quando ativado, uma mensagem com localização, linha e número da placa junto com imagens feitas pelas cãmeras dos veículos serão enviadas imediatamente
+para a central de polícia. A mesma deslocará a viatura mais próxima para que a ação dos bandidos seja interrompida.
+
+\n\n\t5. Pronto! Simples, não é?! e fique despreocupado quanto a informação de quem ativou o sistema, seus dados estão seguros conosco. Nós da Anhangá (criadora do Jabuti) somos uma empresa séria
+e temos contrato com o governo do estado e seguimos todas as normas de segurança.
+
+    </string>
+
+    <string name="etapa_2">
+        \t\t\t\tMas o que ocorre se eu ativar o sistema sem que aja assalto por descuido ou por brincadeira? Bem, para evitarmos gastos gerados com deslocamento
+de viaturas e toda a logística envolvida em uma chamada de assalto, nós estabelecemos algumas regras para que isso seja evitado.
+        \n\t\t\t\tSabemos que você
+entenderá tranquilamente nossas preocupações, pois você é uma pessoa sensata e sabe o quanto é importante evitar trotes.\n
+
+\n\t\t1. Caso o usuário ative o sistema por descuido uma vez, você será notificado sobre tal descuido.
+\n\n\t\t2. Se for feita uma segunda ativação por descuido você será banido do aplicativo por um período de 6 meses, pois trote é considerado uma infração leve,
+podendo gerar multa ou prisão de até dois meses segundo artigo 65 do decreto-lei 3.688 de 1941.
+\n\n\t\t3. Caso aconteça uma nova ativação sem motivo após o período de afastamento de 6 meses do aplicativo, serão implicadas as ações do artigo do
+decreto de lei 3.688 de 1941.
+    </string>
+
+    <string name="etapa_3">
+        \t\t\tPerfeito! \n\nAcredito que você entendeu todo o procedimento e funionamento do aplicativo Jabuti.
+Ao clicar em li e aceito os termos estabelecidos, você será direcionado à página de cadastro.
+
+    </string>
+
+
+</resources>

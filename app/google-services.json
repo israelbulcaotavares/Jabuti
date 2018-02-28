@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "24149920761",
+    "firebase_url": "https://jabutiproject.firebaseio.com",
+    "project_id": "jabutiproject",
+    "storage_bucket": "jabutiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24149920761:android:5d94627374c8c7e9",
+        "android_client_info": {
+          "package_name": "com.example.mechatronicse.mp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24149920761-ovviandkirdumjch2r82dotlap7vvcg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mechatronicse.mp3",
+            "certificate_hash": "8553d4fa2e4fbb95a91cdb4f9f18b9cdec2935b2"
+          }
+        },
+        {
+          "client_id": "24149920761-3v3th2b4rk76jgdhpct17fc6v0nh7ajc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChvPmJUXdrRHK7RwOToECzIIDC-FHQgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24149920761-3v3th2b4rk76jgdhpct17fc6v0nh7ajc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24149920761:android:8d85ccfe0b9415a2",
+        "android_client_info": {
+          "package_name": "com.example.mechatronicse.firebaseteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24149920761-iofuligltdjahnnup3mh8qqq9jg1n97h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mechatronicse.firebaseteste",
+            "certificate_hash": "8553d4fa2e4fbb95a91cdb4f9f18b9cdec2935b2"
+          }
+        },
+        {
+          "client_id": "24149920761-3v3th2b4rk76jgdhpct17fc6v0nh7ajc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChvPmJUXdrRHK7RwOToECzIIDC-FHQgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24149920761-3v3th2b4rk76jgdhpct17fc6v0nh7ajc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24149920761:android:91842deaf72a4813",
+        "android_client_info": {
+          "package_name": "com.example.mechatronicse.jabuti2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24149920761-kcne6o0mpic86sug8lomvg4jjihcu6n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mechatronicse.jabuti2",
+            "certificate_hash": "8553d4fa2e4fbb95a91cdb4f9f18b9cdec2935b2"
+          }
+        },
+        {
+          "client_id": "24149920761-3v3th2b4rk76jgdhpct17fc6v0nh7ajc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChvPmJUXdrRHK7RwOToECzIIDC-FHQgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24149920761-3v3th2b4rk76jgdhpct17fc6v0nh7ajc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
